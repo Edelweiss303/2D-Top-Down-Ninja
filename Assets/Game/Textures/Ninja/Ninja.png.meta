@@ -1,0 +1,6431 @@
+fileFormatVersion: 2
+guid: 51cd18e718b12104b962e89cc80ac4a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Ninja
+  - first:
+      213: 21300002
+    second: Back - Hurt_000
+  - first:
+      213: 21300004
+    second: Back - Hurt_001
+  - first:
+      213: 21300006
+    second: Back - Hurt_002
+  - first:
+      213: 21300008
+    second: Back - Hurt_003
+  - first:
+      213: 21300010
+    second: Back - Hurt_004
+  - first:
+      213: 21300012
+    second: Back - Hurt_005
+  - first:
+      213: 21300014
+    second: Back - Hurt_006
+  - first:
+      213: 21300016
+    second: Back - Hurt_007
+  - first:
+      213: 21300018
+    second: Back - Hurt_008
+  - first:
+      213: 21300020
+    second: Back - Hurt_009
+  - first:
+      213: 21300022
+    second: Back - Hurt_010
+  - first:
+      213: 21300024
+    second: Back - Hurt_011
+  - first:
+      213: 21300026
+    second: Back - Idle_000
+  - first:
+      213: 21300028
+    second: Back - Idle_001
+  - first:
+      213: 21300030
+    second: Back - Idle_002
+  - first:
+      213: 21300032
+    second: Back - Idle_003
+  - first:
+      213: 21300034
+    second: Back - Idle_004
+  - first:
+      213: 21300036
+    second: Back - Idle_005
+  - first:
+      213: 21300038
+    second: Back - Idle_006
+  - first:
+      213: 21300040
+    second: Back - Idle_007
+  - first:
+      213: 21300042
+    second: Back - Idle_008
+  - first:
+      213: 21300044
+    second: Back - Idle_009
+  - first:
+      213: 21300046
+    second: Back - Idle_010
+  - first:
+      213: 21300048
+    second: Back - Idle_011
+  - first:
+      213: 21300050
+    second: Back - Slashing_000
+  - first:
+      213: 21300052
+    second: Back - Slashing_001
+  - first:
+      213: 21300054
+    second: Back - Slashing_002
+  - first:
+      213: 21300056
+    second: Back - Slashing_003
+  - first:
+      213: 21300058
+    second: Back - Slashing_004
+  - first:
+      213: 21300060
+    second: Back - Slashing_005
+  - first:
+      213: 21300062
+    second: Back - Slashing_006
+  - first:
+      213: 21300064
+    second: Back - Slashing_007
+  - first:
+      213: 21300066
+    second: Back - Slashing_008
+  - first:
+      213: 21300068
+    second: Back - Slashing_009
+  - first:
+      213: 21300070
+    second: Back - Slashing_010
+  - first:
+      213: 21300072
+    second: Back - Slashing_011
+  - first:
+      213: 21300074
+    second: Back - Walking_000
+  - first:
+      213: 21300076
+    second: Back - Walking_001
+  - first:
+      213: 21300078
+    second: Back - Walking_002
+  - first:
+      213: 21300080
+    second: Back - Walking_003
+  - first:
+      213: 21300082
+    second: Back - Walking_004
+  - first:
+      213: 21300084
+    second: Back - Walking_005
+  - first:
+      213: 21300086
+    second: Back - Walking_006
+  - first:
+      213: 21300088
+    second: Back - Walking_007
+  - first:
+      213: 21300090
+    second: Back - Walking_008
+  - first:
+      213: 21300092
+    second: Back - Walking_009
+  - first:
+      213: 21300094
+    second: Back - Walking_010
+  - first:
+      213: 21300096
+    second: Back - Walking_011
+  - first:
+      213: 21300098
+    second: Back - Walking_012
+  - first:
+      213: 21300100
+    second: Back - Walking_013
+  - first:
+      213: 21300102
+    second: Back - Walking_014
+  - first:
+      213: 21300104
+    second: Back - Walking_015
+  - first:
+      213: 21300106
+    second: Back - Walking_016
+  - first:
+      213: 21300108
+    second: Back - Walking_017
+  - first:
+      213: 21300110
+    second: Dying_000
+  - first:
+      213: 21300112
+    second: Dying_001
+  - first:
+      213: 21300114
+    second: Dying_002
+  - first:
+      213: 21300116
+    second: Dying_003
+  - first:
+      213: 21300118
+    second: Dying_004
+  - first:
+      213: 21300120
+    second: Dying_005
+  - first:
+      213: 21300122
+    second: Dying_006
+  - first:
+      213: 21300124
+    second: Dying_007
+  - first:
+      213: 21300126
+    second: Dying_008
+  - first:
+      213: 21300128
+    second: Dying_009
+  - first:
+      213: 21300130
+    second: Dying_010
+  - first:
+      213: 21300132
+    second: Dying_011
+  - first:
+      213: 21300134
+    second: Front - Hurt_000
+  - first:
+      213: 21300136
+    second: Front - Hurt_001
+  - first:
+      213: 21300138
+    second: Front - Hurt_002
+  - first:
+      213: 21300140
+    second: Front - Hurt_003
+  - first:
+      213: 21300142
+    second: Front - Hurt_004
+  - first:
+      213: 21300144
+    second: Front - Hurt_005
+  - first:
+      213: 21300146
+    second: Front - Hurt_006
+  - first:
+      213: 21300148
+    second: Front - Hurt_007
+  - first:
+      213: 21300150
+    second: Front - Hurt_008
+  - first:
+      213: 21300152
+    second: Front - Hurt_009
+  - first:
+      213: 21300154
+    second: Front - Hurt_010
+  - first:
+      213: 21300156
+    second: Front - Hurt_011
+  - first:
+      213: 21300158
+    second: Front - Idle Blinking_000
+  - first:
+      213: 21300160
+    second: Front - Idle Blinking_001
+  - first:
+      213: 21300162
+    second: Front - Idle Blinking_002
+  - first:
+      213: 21300164
+    second: Front - Idle Blinking_003
+  - first:
+      213: 21300166
+    second: Front - Idle Blinking_004
+  - first:
+      213: 21300168
+    second: Front - Idle Blinking_005
+  - first:
+      213: 21300170
+    second: Front - Idle Blinking_006
+  - first:
+      213: 21300172
+    second: Front - Idle Blinking_007
+  - first:
+      213: 21300174
+    second: Front - Idle Blinking_008
+  - first:
+      213: 21300176
+    second: Front - Idle Blinking_009
+  - first:
+      213: 21300178
+    second: Front - Idle Blinking_010
+  - first:
+      213: 21300180
+    second: Front - Idle Blinking_011
+  - first:
+      213: 21300182
+    second: Front - Idle_000
+  - first:
+      213: 21300184
+    second: Front - Idle_001
+  - first:
+      213: 21300186
+    second: Front - Idle_002
+  - first:
+      213: 21300188
+    second: Front - Idle_003
+  - first:
+      213: 21300190
+    second: Front - Idle_004
+  - first:
+      213: 21300192
+    second: Front - Idle_005
+  - first:
+      213: 21300194
+    second: Front - Idle_006
+  - first:
+      213: 21300196
+    second: Front - Idle_007
+  - first:
+      213: 21300198
+    second: Front - Idle_008
+  - first:
+      213: 21300200
+    second: Front - Idle_009
+  - first:
+      213: 21300202
+    second: Front - Idle_010
+  - first:
+      213: 21300204
+    second: Front - Idle_011
+  - first:
+      213: 21300206
+    second: Front - Slashing_000
+  - first:
+      213: 21300208
+    second: Front - Slashing_001
+  - first:
+      213: 21300210
+    second: Front - Slashing_002
+  - first:
+      213: 21300212
+    second: Front - Slashing_003
+  - first:
+      213: 21300214
+    second: Front - Slashing_004
+  - first:
+      213: 21300216
+    second: Front - Slashing_005
+  - first:
+      213: 21300218
+    second: Front - Slashing_006
+  - first:
+      213: 21300220
+    second: Front - Slashing_007
+  - first:
+      213: 21300222
+    second: Front - Slashing_008
+  - first:
+      213: 21300224
+    second: Front - Slashing_009
+  - first:
+      213: 21300226
+    second: Front - Slashing_010
+  - first:
+      213: 21300228
+    second: Front - Slashing_011
+  - first:
+      213: 21300230
+    second: Front - Walking_000
+  - first:
+      213: 21300232
+    second: Front - Walking_001
+  - first:
+      213: 21300234
+    second: Front - Walking_002
+  - first:
+      213: 21300236
+    second: Front - Walking_003
+  - first:
+      213: 21300238
+    second: Front - Walking_004
+  - first:
+      213: 21300240
+    second: Front - Walking_005
+  - first:
+      213: 21300242
+    second: Front - Walking_006
+  - first:
+      213: 21300244
+    second: Front - Walking_007
+  - first:
+      213: 21300246
+    second: Front - Walking_008
+  - first:
+      213: 21300248
+    second: Front - Walking_009
+  - first:
+      213: 21300250
+    second: Front - Walking_010
+  - first:
+      213: 21300252
+    second: Front - Walking_011
+  - first:
+      213: 21300254
+    second: Front - Walking_012
+  - first:
+      213: 21300256
+    second: Front - Walking_013
+  - first:
+      213: 21300258
+    second: Front - Walking_014
+  - first:
+      213: 21300260
+    second: Front - Walking_015
+  - first:
+      213: 21300262
+    second: Front - Walking_016
+  - first:
+      213: 21300264
+    second: Front - Walking_017
+  - first:
+      213: 21300266
+    second: Left - Hurt_000
+  - first:
+      213: 21300268
+    second: Left - Hurt_001
+  - first:
+      213: 21300270
+    second: Left - Hurt_002
+  - first:
+      213: 21300272
+    second: Left - Hurt_003
+  - first:
+      213: 21300274
+    second: Left - Hurt_004
+  - first:
+      213: 21300276
+    second: Left - Hurt_005
+  - first:
+      213: 21300278
+    second: Left - Hurt_006
+  - first:
+      213: 21300280
+    second: Left - Hurt_007
+  - first:
+      213: 21300282
+    second: Left - Hurt_008
+  - first:
+      213: 21300284
+    second: Left - Hurt_009
+  - first:
+      213: 21300286
+    second: Left - Hurt_010
+  - first:
+      213: 21300288
+    second: Left - Hurt_011
+  - first:
+      213: 21300290
+    second: Left - Idle Blinking_000
+  - first:
+      213: 21300292
+    second: Left - Idle Blinking_001
+  - first:
+      213: 21300294
+    second: Left - Idle Blinking_002
+  - first:
+      213: 21300296
+    second: Left - Idle Blinking_003
+  - first:
+      213: 21300298
+    second: Left - Idle Blinking_004
+  - first:
+      213: 21300300
+    second: Left - Idle Blinking_005
+  - first:
+      213: 21300302
+    second: Left - Idle Blinking_006
+  - first:
+      213: 21300304
+    second: Left - Idle Blinking_007
+  - first:
+      213: 21300306
+    second: Left - Idle Blinking_008
+  - first:
+      213: 21300308
+    second: Left - Idle Blinking_009
+  - first:
+      213: 21300310
+    second: Left - Idle Blinking_010
+  - first:
+      213: 21300312
+    second: Left - Idle Blinking_011
+  - first:
+      213: 21300314
+    second: Left - Idle_000
+  - first:
+      213: 21300316
+    second: Left - Idle_001
+  - first:
+      213: 21300318
+    second: Left - Idle_002
+  - first:
+      213: 21300320
+    second: Left - Idle_003
+  - first:
+      213: 21300322
+    second: Left - Idle_004
+  - first:
+      213: 21300324
+    second: Left - Idle_005
+  - first:
+      213: 21300326
+    second: Left - Idle_006
+  - first:
+      213: 21300328
+    second: Left - Idle_007
+  - first:
+      213: 21300330
+    second: Left - Idle_008
+  - first:
+      213: 21300332
+    second: Left - Idle_009
+  - first:
+      213: 21300334
+    second: Left - Idle_010
+  - first:
+      213: 21300336
+    second: Left - Idle_011
+  - first:
+      213: 21300338
+    second: Left - Slashing_000
+  - first:
+      213: 21300340
+    second: Left - Slashing_001
+  - first:
+      213: 21300342
+    second: Left - Slashing_002
+  - first:
+      213: 21300344
+    second: Left - Slashing_003
+  - first:
+      213: 21300346
+    second: Left - Slashing_004
+  - first:
+      213: 21300348
+    second: Left - Slashing_005
+  - first:
+      213: 21300350
+    second: Left - Slashing_006
+  - first:
+      213: 21300352
+    second: Left - Slashing_007
+  - first:
+      213: 21300354
+    second: Left - Slashing_008
+  - first:
+      213: 21300356
+    second: Left - Slashing_009
+  - first:
+      213: 21300358
+    second: Left - Slashing_010
+  - first:
+      213: 21300360
+    second: Left - Slashing_011
+  - first:
+      213: 21300362
+    second: Left - Walking_000
+  - first:
+      213: 21300364
+    second: Left - Walking_001
+  - first:
+      213: 21300366
+    second: Left - Walking_002
+  - first:
+      213: 21300368
+    second: Left - Walking_003
+  - first:
+      213: 21300370
+    second: Left - Walking_004
+  - first:
+      213: 21300372
+    second: Left - Walking_005
+  - first:
+      213: 21300374
+    second: Left - Walking_006
+  - first:
+      213: 21300376
+    second: Left - Walking_007
+  - first:
+      213: 21300378
+    second: Left - Walking_008
+  - first:
+      213: 21300380
+    second: Left - Walking_009
+  - first:
+      213: 21300382
+    second: Left - Walking_010
+  - first:
+      213: 21300384
+    second: Left - Walking_011
+  - first:
+      213: 21300386
+    second: Left - Walking_012
+  - first:
+      213: 21300388
+    second: Left - Walking_013
+  - first:
+      213: 21300390
+    second: Left - Walking_014
+  - first:
+      213: 21300392
+    second: Left - Walking_015
+  - first:
+      213: 21300394
+    second: Left - Walking_016
+  - first:
+      213: 21300396
+    second: Left - Walking_017
+  - first:
+      213: 21300398
+    second: Right - Hurt_000
+  - first:
+      213: 21300400
+    second: Right - Hurt_001
+  - first:
+      213: 21300402
+    second: Right - Hurt_002
+  - first:
+      213: 21300404
+    second: Right - Hurt_003
+  - first:
+      213: 21300406
+    second: Right - Hurt_004
+  - first:
+      213: 21300408
+    second: Right - Hurt_005
+  - first:
+      213: 21300410
+    second: Right - Hurt_006
+  - first:
+      213: 21300412
+    second: Right - Hurt_007
+  - first:
+      213: 21300414
+    second: Right - Hurt_008
+  - first:
+      213: 21300416
+    second: Right - Hurt_009
+  - first:
+      213: 21300418
+    second: Right - Hurt_010
+  - first:
+      213: 21300420
+    second: Right - Hurt_011
+  - first:
+      213: 21300422
+    second: Right - Idle Blinking_000
+  - first:
+      213: 21300424
+    second: Right - Idle Blinking_001
+  - first:
+      213: 21300426
+    second: Right - Idle Blinking_002
+  - first:
+      213: 21300428
+    second: Right - Idle Blinking_003
+  - first:
+      213: 21300430
+    second: Right - Idle Blinking_004
+  - first:
+      213: 21300432
+    second: Right - Idle Blinking_005
+  - first:
+      213: 21300434
+    second: Right - Idle Blinking_006
+  - first:
+      213: 21300436
+    second: Right - Idle Blinking_007
+  - first:
+      213: 21300438
+    second: Right - Idle Blinking_008
+  - first:
+      213: 21300440
+    second: Right - Idle Blinking_009
+  - first:
+      213: 21300442
+    second: Right - Idle Blinking_010
+  - first:
+      213: 21300444
+    second: Right - Idle Blinking_011
+  - first:
+      213: 21300446
+    second: Right - Idle_000
+  - first:
+      213: 21300448
+    second: Right - Idle_001
+  - first:
+      213: 21300450
+    second: Right - Idle_002
+  - first:
+      213: 21300452
+    second: Right - Idle_003
+  - first:
+      213: 21300454
+    second: Right - Idle_004
+  - first:
+      213: 21300456
+    second: Right - Idle_005
+  - first:
+      213: 21300458
+    second: Right - Idle_006
+  - first:
+      213: 21300460
+    second: Right - Idle_007
+  - first:
+      213: 21300462
+    second: Right - Idle_008
+  - first:
+      213: 21300464
+    second: Right - Idle_009
+  - first:
+      213: 21300466
+    second: Right - Idle_010
+  - first:
+      213: 21300468
+    second: Right - Idle_011
+  - first:
+      213: 21300470
+    second: Right - Slashing_000
+  - first:
+      213: 21300472
+    second: Right - Slashing_001
+  - first:
+      213: 21300474
+    second: Right - Slashing_002
+  - first:
+      213: 21300476
+    second: Right - Slashing_003
+  - first:
+      213: 21300478
+    second: Right - Slashing_004
+  - first:
+      213: 21300480
+    second: Right - Slashing_005
+  - first:
+      213: 21300482
+    second: Right - Slashing_006
+  - first:
+      213: 21300484
+    second: Right - Slashing_007
+  - first:
+      213: 21300486
+    second: Right - Slashing_008
+  - first:
+      213: 21300488
+    second: Right - Slashing_009
+  - first:
+      213: 21300490
+    second: Right - Slashing_010
+  - first:
+      213: 21300492
+    second: Right - Slashing_011
+  - first:
+      213: 21300494
+    second: Right - Walking_000
+  - first:
+      213: 21300496
+    second: Right - Walking_001
+  - first:
+      213: 21300498
+    second: Right - Walking_002
+  - first:
+      213: 21300500
+    second: Right - Walking_003
+  - first:
+      213: 21300502
+    second: Right - Walking_004
+  - first:
+      213: 21300504
+    second: Right - Walking_005
+  - first:
+      213: 21300506
+    second: Right - Walking_006
+  - first:
+      213: 21300508
+    second: Right - Walking_007
+  - first:
+      213: 21300510
+    second: Right - Walking_008
+  - first:
+      213: 21300512
+    second: Right - Walking_009
+  - first:
+      213: 21300514
+    second: Right - Walking_010
+  - first:
+      213: 21300516
+    second: Right - Walking_011
+  - first:
+      213: 21300518
+    second: Right - Walking_012
+  - first:
+      213: 21300520
+    second: Right - Walking_013
+  - first:
+      213: 21300522
+    second: Right - Walking_014
+  - first:
+      213: 21300524
+    second: Right - Walking_015
+  - first:
+      213: 21300526
+    second: Right - Walking_016
+  - first:
+      213: 21300528
+    second: Right - Walking_017
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back - Hurt_000
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 27
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.46846846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaa407caca774646adffdb7650a4274
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_001
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1730
+        width: 88
+        height: 103
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.42718446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e12a624094f71c4e9b873820ef6bc82
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_002
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 882
+        width: 73
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.4526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c805fa2d88fda8b429bc645e89e46ec6
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_003
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 856
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4512195, y: 0.4854369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0644140cb102adf44a8bb698a24de66b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_004
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1214
+        width: 73
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.4574468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442c79367fef4bc42a997f1dc60eeafe
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_005
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 994
+        width: 73
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.4526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901b9d67aa0d82b4480bf0381906ba83
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_006
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1105
+        width: 73
+        height: 95
+      alignment: 9
+      pivot: {x: 0.49315068, y: 0.4526316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed81c18fdc6879f42bf70dedc57a49fa
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_007
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 624
+        width: 86
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58bd6f1bc5703147861e6d767419574
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_008
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1815
+        width: 85
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47058824, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e16b5c96d2b249b7c56f7cdb1a849
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_009
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1253
+        width: 88
+        height: 108
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0b142d0c0d19546a6d90acbde0606c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_010
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1390
+        width: 84
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47619048, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115fc59334e6bf49a906f52d0211da3
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Hurt_011
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1926
+        width: 91
+        height: 121
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.4876033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be301f9aa45b6140998f1b97a20d9bb
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_000
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 143
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.46846846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f59351f8f6d9c47879bae72b052929
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_001
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 647
+        width: 77
+        height: 102
+      alignment: 9
+      pivot: {x: 0.48051947, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500fd6e89736d294180566c16caf680f
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_002
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 756
+        width: 77
+        height: 102
+      alignment: 9
+      pivot: {x: 0.48051947, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d5463351c7b6849bb21ff925fbba73
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_003
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 26
+        width: 92
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51086956, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c9b0ee0e132ce4cb50aefa537aaadf
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_004
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 158
+        width: 87
+        height: 105
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beedcf0b52d2cc04bb1195adc78cdfa0
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_005
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1833
+        width: 80
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8737c52ea0b27e4b9d1b9a6fe8f85b9
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_006
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1481
+        width: 78
+        height: 109
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedbde3556bb572498ccfc928545a0de
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_007
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1067
+        width: 80
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8621314c29e8da74cb81a155a09d232e
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_008
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1175
+        width: 80
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aae89564ec84247b0994c86f08f5b2
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_009
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1941
+        width: 80
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fa3092df07fc54695945851074d5e7
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_010
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1174
+        width: 80
+        height: 106
+      alignment: 9
+      pivot: {x: 0.475, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71bffc9dc6bfa74ea6237bb4c032a21
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Idle_011
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 172
+        width: 82
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4512195, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405840bfacdd82144bde83f3a889044b
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_000
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 601
+        width: 102
+        height: 114
+      alignment: 9
+      pivot: {x: 0.60784316, y: 0.45614034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e28b85786d7b1c419f0c870ff9e43df
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_001
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1814
+        width: 105
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.45217392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5024b845cce30de468ca382b2ed959bd
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_002
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1932
+        width: 102
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5980392, y: 0.46086955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e86c881ce1286459d80879926aeccf
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_003
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1709
+        width: 85
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5764706, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07cc3445de08fc46ac7692aeb5fdcaa
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1552
+        width: 93
+        height: 120
+      alignment: 9
+      pivot: {x: 0.4623656, y: 0.5083333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d171818b4008f754996a4d6926493958
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_005
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 240
+        width: 112
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a9899fd06db640ac65ee25b852600
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_006
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1938
+        width: 106
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4056604, y: 0.4678899}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765200e0325517c479ff06345df7828f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_007
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 545
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.36, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f08df7823e14d4b8aff67e34ca66f9
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_008
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1514
+        width: 104
+        height: 103
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.42718446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6bc5dba5d0e1c409954fcfbda51ab3
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_009
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 860
+        width: 106
+        height: 102
+      alignment: 9
+      pivot: {x: 0.3962264, y: 0.43137255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff5fa08fafcaa4f81c82745ebb3392
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_010
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 979
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.36633664, y: 0.45544556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e795816dba0e74790815ccdb1b8950
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Slashing_011
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1633
+        width: 102
+        height: 100
+      alignment: 9
+      pivot: {x: 0.37254903, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc466b8453cb3341b9e55ffbcbe36bc
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_000
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 260
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.46846846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9d37d011ab2cc4c9adaaf6d1c57c6e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_001
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 806
+        width: 95
+        height: 107
+      alignment: 9
+      pivot: {x: 0.55789477, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06414e41b7a050469dd4cc041ea4f46
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_002
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 565
+        width: 86
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494a2594dcd49c74c89bea8b3dd6166e
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1674
+        width: 87
+        height: 121
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.47107437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f6c1ebcb1f4c74b94971c7287c7090
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_004
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 265
+        width: 88
+        height: 105
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2ffc195b3347f4a93ab5fef8a2fa97
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_005
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1371
+        width: 87
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58607fc950fe7646925d50ba9d2ccaf
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1922
+        width: 79
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5316456, y: 0.488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2053327fe1e5e54aac0e2ed45a30c0a
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_007
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 87
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49425286, y: 0.44339624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c22b2479c1f4844e8bcab3c705d337d
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_008
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 455
+        width: 95
+        height: 107
+      alignment: 9
+      pivot: {x: 0.55789477, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311364eaa6cd1d242baf842ca301331c
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_009
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 960
+        width: 83
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5180723, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200d116f89aa8d642ad7c26bcafa2d2b
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_010
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 719
+        width: 82
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.48245615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf28c8f213b64744e869d3200ffccd4c
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_011
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1436
+        width: 80
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47863248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e341da7fe0084714da3e9435d5b5bfd1
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_012
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 834
+        width: 77
+        height: 115
+      alignment: 9
+      pivot: {x: 0.48051947, y: 0.44347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381f06cf576ea2947853cd765b128435
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_013
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1245
+        width: 80
+        height: 109
+      alignment: 9
+      pivot: {x: 0.475, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e31a3cf3dd5b246a6f98586ea6bba4
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_014
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1403
+        width: 77
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48051947, y: 0.47115386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a0af79403608419f55decd661edb4
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_015
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 265
+        width: 80
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45945945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543dbb87bfb9c3d448fe2242617a2211
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_016
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1034
+        width: 80
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025d59f81c804c74594764da047af7fa
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back - Walking_017
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1152
+        width: 80
+        height: 107
+      alignment: 9
+      pivot: {x: 0.475, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd1348c05329d4b8d8597ebcbbe862
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_000
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1435
+        width: 98
+        height: 89
+      alignment: 9
+      pivot: {x: 0.47959185, y: 0.6741573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc514d4dcb06ca24cbefb479e3dddb7b
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_001
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1244
+        width: 105
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28f4de900f24a241aa1632a4dce77bf
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_002
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1357
+        width: 105
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d553f04da5e3b5e4aa2985febba3c29a
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_003
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1471
+        width: 105
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9d6c0be42bb344b98d074f7154711
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_004
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1549
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e83de072462f0408cb69c22abc95f7
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_005
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 798
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a558ec53a3ceabe459ae951611101461
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_006
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 910
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac80fe9dc349cd4d962f08c8f31aa48
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_007
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1021
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68337705b406e7649b9795fbc863f99d
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_008
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1130
+        width: 100
+        height: 82
+      alignment: 9
+      pivot: {x: 0.49, y: 0.70731705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af69f48e6805e943a63dc3e0d32dbf2
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_009
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 474
+        width: 105
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba02013c51eb6841829950f18486a0f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_010
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 396
+        width: 105
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6c0476dbaaa284cba64e29df1becbb
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dying_011
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 587
+        width: 105
+        height: 76
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.7368421}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c751c6f2e47ab04786bd09283590f52
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_000
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 400
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88c4a27203fed543aea154f2790edc5
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_001
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1619
+        width: 86
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44230768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd461f3bdf5d5ac4a8820ea17f6c785c
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_002
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 665
+        width: 77
+        height: 98
+      alignment: 9
+      pivot: {x: 0.46753246, y: 0.45918366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ded01a22dd6b843b865b098281d8ac
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_003
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1322
+        width: 72
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc214af32d12c094bbda042f23d7ea8a
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_004
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 765
+        width: 82
+        height: 100
+      alignment: 9
+      pivot: {x: 0.47560975, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670832ce1c1de284b9958ab022661c70
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_005
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1282
+        width: 80
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4875, y: 0.4245283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83833cbff15626f4983d2d23aa7a2634
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_006
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 65
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4814815, y: 0.43809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc92aedfd8287f40a9069da1f5af249
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_007
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 1418
+        width: 82
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44554454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61040a6febccad4fb7107c41276cb82
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_008
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1838
+        width: 86
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517a810ad958f9444b9a4ae2ea3e3f9d
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_009
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1451
+        width: 88
+        height: 115
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422a6851a4ae91488cc953fff0cbee6
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_010
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1509
+        width: 88
+        height: 104
+      alignment: 9
+      pivot: {x: 0.48863637, y: 0.44230768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f771ec67a38ae48b4ff5f65ff5323d
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Hurt_011
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 835
+        width: 83
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.49122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1867c433543668d4fbba4c83f9f52b54
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_000
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 176
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db732a2024fdf7f4a874da2ccf5a9f50
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_001
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 288
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87448ad7b8eb5c341a04d3f840155efb
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_002
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 783
+        width: 80
+        height: 108
+      alignment: 9
+      pivot: {x: 0.525, y: 0.42592594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f4f87b603589f4dac713f07cd8f5be
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_003
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1194
+        width: 87
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5632184, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e7dfdb26c4e3c48ad56901caeba5a2
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_004
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 972
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5730337, y: 0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1dedb03d61fd5478f4024e92763962
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_005
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 237
+        width: 82
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a1af0ec93c76546a8fba5493ccf200
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_006
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1927
+        width: 84
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e32f4e418d9c634c8e50db45df7fe3c
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1187
+        width: 85
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.48739496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e474c865cf4611c4a85b9e86419cc55f
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_008
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1202
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5632184, y: 0.45544556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d36fb21e3f2e46a22af438e99fc2a
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_009
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f95ca7c35f2d814f998e010c9a87bda
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_010
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1675
+        width: 87
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52873564, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279bb3fd0e7b27e4ab65f065015965c3
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle Blinking_011
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1831
+        width: 85
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.43396226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad1fe4e15d7db64e9ac1a92207db896
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_000
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 64
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0339bc43e638c74439b2ee3b645f7bc4
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_001
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 176
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d0541e1c99a2e4e947690475f587ae
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_002
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 673
+        width: 80
+        height: 108
+      alignment: 9
+      pivot: {x: 0.525, y: 0.42592594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143398cbbb6f07744a1f74f006c023b9
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_003
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1305
+        width: 87
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5632184, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdfd391f7e265b4cbb0b2bb8d4e0403
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_004
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 736
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5730337, y: 0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8615fe54687b1cd4297d6c59a050966a
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_005
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 347
+        width: 82
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b3b084bccf8d741b10e8c6020e381a
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_006
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1430
+        width: 84
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49166667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd44baadb31c237409f06ad1fd66cd07
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_007
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1309
+        width: 85
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.48739496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41a72e5104d7834fb039abfb8b175c7
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_008
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1310
+        width: 87
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5632184, y: 0.45544556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc7cc0d22d0dc54587a8bfd9c5dd353
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_009
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 256
+        width: 76
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f939b821137c47b543d0be8441034
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_010
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1804
+        width: 87
+        height: 120
+      alignment: 9
+      pivot: {x: 0.52873564, y: 0.48333332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd42cd7a3d4e64448e5159ba44896d2
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Idle_011
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1941
+        width: 85
+        height: 106
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.43396226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8f796dd502204289b349af3e0223f
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_000
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 721
+        width: 87
+        height: 112
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a6a203a6f3c84186f76f92ad61186
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1797
+        width: 91
+        height: 123
+      alignment: 9
+      pivot: {x: 0.50549453, y: 0.50406504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e921bf2a21cfc04bbae9a53bc51b10e
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_002
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1312
+        width: 91
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4945055, y: 0.5470086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e7a845d432a4449bcb8a12ec58af3
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_003
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1579
+        width: 88
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4659091, y: 0.53913045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b0365bf4ff5d4eadf3b3de4823a73
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_004
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 605
+        width: 92
+        height: 112
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.54464287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce46dcb72af8db84a990374ce6c85c3b
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_005
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1696
+        width: 106
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5849057, y: 0.5565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85913b5073742394586e10545ae28117
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_006
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1686
+        width: 106
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5660377, y: 0.54310346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec6ded6f6b8306438a379cbca8a725a
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_007
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 487
+        width: 107
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5981308, y: 0.52678573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae7cbaf44419804f8b2cd53a61ade74
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_008
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 270
+        width: 102
+        height: 110
+      alignment: 9
+      pivot: {x: 0.627451, y: 0.5272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cadbd5bf071fb4690568ed10f5acf6
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_009
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 22
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.627451, y: 0.50476193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b589de9fe02b8a545ad3765a9b9262cc
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_010
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 133
+        width: 102
+        height: 105
+      alignment: 9
+      pivot: {x: 0.627451, y: 0.50476193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecdcc50309bc544b89e95addba33fdc
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Slashing_011
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1114
+        width: 102
+        height: 109
+      alignment: 9
+      pivot: {x: 0.627451, y: 0.5229358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39c3340674a50e4a97b32669b112297
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_000
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 64
+        width: 81
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.47272727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8bd1a5829906644bf999f0730acceb
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_001
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1943
+        width: 82
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5365854, y: 0.44230768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbfe5c446458f140929789b2ada26d0
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_002
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1498
+        width: 86
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4883721, y: 0.44339624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f368ec5f720b498326cfa5e824399
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_003
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 51
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5421687, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0953c716f64fee445982508291e37959
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_004
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1697
+        width: 87
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4827586, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bc41b9747972c4da608ec924740101
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_005
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1474
+        width: 90
+        height: 109
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c2483b0529a2d41a4a8ee5a9a8a16d
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_006
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1117
+        width: 81
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5308642, y: 0.5045872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf2049756961d4aa11a908034b556c
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_007
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 493
+        width: 89
+        height: 105
+      alignment: 9
+      pivot: {x: 0.505618, y: 0.43809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddbf6d4198e24244b946a2301d3e5e3
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_008
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 158
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.44761905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3596046e9453541bc8d1497888949f
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_009
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1606
+        width: 85
+        height: 108
+      alignment: 9
+      pivot: {x: 0.49411765, y: 0.42592594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea1557686f20ee4dba2294ab12c932c
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_010
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1727
+        width: 83
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.44230768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46e5a11afdc8f344ae1d7bd9d4baf43
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_011
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1828
+        width: 84
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4351852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bddf058ec4d5947901f3c83ba9bea6
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_012
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1835
+        width: 83
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5421687, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d60f97ff637ad43827dd1c1fd55334
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_013
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 512
+        width: 84
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471bf432649700144945bc416e0bd95b
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_014
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 152
+        width: 75
+        height: 111
+      alignment: 9
+      pivot: {x: 0.49333334, y: 0.5045045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cc7e5faf4a2d243adf28f1da86de14
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_015
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 279
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5421687, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c069e4f961df22448edf702f3e9e134
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_016
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 456
+        width: 84
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2154c33b08792469a1322eac4b93be
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Front - Walking_017
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 624
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5730337, y: 0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b7dca9dc5a6b4d81d29c092187615
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_000
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 378
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5233a54c439c743bfa9702780379d4
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_001
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 400
+        width: 85
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5411765, y: 0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579deda305c9d346b43547e77acca10
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_002
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 34
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7ff0e4486f0994cb0fdb6cb607314b
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_003
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 588
+        width: 83
+        height: 107
+      alignment: 9
+      pivot: {x: 0.55421686, y: 0.42990655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f18a00c9bc3594da44fb2749fcb6a4
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_004
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 386
+        width: 88
+        height: 105
+      alignment: 9
+      pivot: {x: 0.53409094, y: 0.41904762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983a14f3cd47a784f9850b12db4e759c
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_005
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1308
+        width: 74
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336e9c1070b8b9449becef69f5bbd532
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_006
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 925
+        width: 77
+        height: 107
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.45794392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8de3d48e0b63b24586cafd858b1700f
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_007
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1291
+        width: 78
+        height: 104
+      alignment: 9
+      pivot: {x: 0.51282054, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2488ed9818a933146afc28538e3912dc
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_008
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1286
+        width: 80
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.43809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519aa04733f0fc34aa00b2500a9d5f3c
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_009
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 479
+        width: 81
+        height: 107
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.44859812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e53383e8a7b94845837d888c90a43e6
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_010
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 608
+        width: 88
+        height: 111
+      alignment: 9
+      pivot: {x: 0.47727272, y: 0.4774775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be9f72637906754b886521af1d83468
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Hurt_011
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1939
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.46341464, y: 0.4537037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f666e75cfd3ec45b044632ad5d615a
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_000
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 495
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e5ae0ddfb8bce4698a35ab0246fa20
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_001
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 736
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.44545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e00ec1146cd7a744bbad774988b2bde
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_002
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 40
+        width: 94
+        height: 110
+      alignment: 9
+      pivot: {x: 0.43617022, y: 0.44545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b50219b77c90945aa36aaa624458ac
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_003
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1598
+        width: 78
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d38226285981043a29447ad4937feb
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 140
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a934160d65e848b49ffff256c31f3
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_005
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1390
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.43373495, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ce7f13b165f3a4a8ad523a2f69245d
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_006
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 961
+        width: 81
+        height: 104
+      alignment: 9
+      pivot: {x: 0.54320985, y: 0.47115386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e659eb1a19519748bbecfffad8a5dd2
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_007
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1467
+        width: 77
+        height: 110
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea931c2a263a90468f7b0736efc3f13
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_008
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1504
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c31fc3aa6639438c683c85ba82a34
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_009
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1025
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4537037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f880e6548db1b47978fd8683a39798
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_010
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 697
+        width: 86
+        height: 107
+      alignment: 9
+      pivot: {x: 0.54651165, y: 0.45794392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d522b290ee1947af287a0c8449112
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle Blinking_011
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1501
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcdf9976bdda5b4385b118bee6bd41d
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_000
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 30
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc50678119188448da2495e078114c
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_001
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 512
+        width: 89
+        height: 110
+      alignment: 9
+      pivot: {x: 0.49438202, y: 0.44545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c28a1e58e1def43bbf9eb33e7082f5
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_002
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 158
+        width: 94
+        height: 110
+      alignment: 9
+      pivot: {x: 0.43617022, y: 0.44545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcfa7b2b7ddde94bb106f7e2618d649
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_003
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1716
+        width: 78
+        height: 109
+      alignment: 9
+      pivot: {x: 0.4871795, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c65ca4c7dbf6a346a3e6d10df30e235
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 77
+        height: 112
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d5a64cb3de0bb4996e0ea88e6d870a
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_005
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1612
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.43373495, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c81b6e8d0b8a48af2a1d15f9fb3c4
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_006
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1069
+        width: 81
+        height: 104
+      alignment: 9
+      pivot: {x: 0.54320985, y: 0.47115386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e58a727bde24a4c81bfa17b618d0f2
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_007
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1585
+        width: 77
+        height: 110
+      alignment: 9
+      pivot: {x: 0.45454547, y: 0.5090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d68dc225ca7e2348ab0a1fd879d3691
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_008
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1615
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9227b6a3bc24a1548921b0efa81073d5
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_009
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1143
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.4537037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2d4fb3311cc8940937c319469c92c8
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_010
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 346
+        width: 86
+        height: 107
+      alignment: 9
+      pivot: {x: 0.54651165, y: 0.45794392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0197e05d24c2bf346865060e88b8cd9f
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Idle_011
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1723
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4939759, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084154a5f1c59de4492761e48fe8ff3e
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_000
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1932
+        width: 84
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.4695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003a5c4eb6a45e349927d0916cefb660
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_001
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1813
+        width: 86
+        height: 116
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30651627ce3620545879003765ca4336
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_002
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1397
+        width: 78
+        height: 105
+      alignment: 9
+      pivot: {x: 0.44871795, y: 0.4857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f739cc29dccd01e40b56fb6b3fa49b1e
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_003
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1003
+        width: 82
+        height: 109
+      alignment: 9
+      pivot: {x: 0.46341464, y: 0.44036698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a4e5e2644c9c4284e5208cc64dabd
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_004
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 717
+        width: 77
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5064935, y: 0.49565217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921375433496b584892371ca01911f91
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_005
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1592
+        width: 88
+        height: 109
+      alignment: 9
+      pivot: {x: 0.59090906, y: 0.42201835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edae619759c0ae4ab76242c4c462d3d
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_006
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 564
+        width: 97
+        height: 107
+      alignment: 9
+      pivot: {x: 0.6597938, y: 0.46728972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92a3472d1eaa344ada612754fd41a3
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_007
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1190
+        width: 95
+        height: 117
+      alignment: 9
+      pivot: {x: 0.67368424, y: 0.50427353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ea903a7c8e69469c423ca6d789549
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_008
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1622
+        width: 97
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6597938, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265387ce39177824cb13e6993a5d387e
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_009
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 971
+        width: 94
+        height: 102
+      alignment: 9
+      pivot: {x: 0.65957445, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92142fbea856094da8d44b1c1a1b587
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_010
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1007
+        width: 92
+        height: 108
+      alignment: 9
+      pivot: {x: 0.67391306, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5495f032202934cbfc4aa914cd7682
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Slashing_011
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1091
+        width: 91
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.45544556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b36ae76aa346a4298cf349ee835532
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_000
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 147
+        width: 82
+        height: 111
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c763169f6e224f74595da4e42d97bc49
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 485
+        width: 80
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.49122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43f4a5737c5e034f99e568e06bb5069
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_002
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1833
+        width: 76
+        height: 106
+      alignment: 9
+      pivot: {x: 0.43421054, y: 0.43396226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd4e57e4884f0848a9d3f64f698be62
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_003
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 925
+        width: 77
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5194805, y: 0.44859812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f75965be500fc4cb51cdd73c2e4fe9
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_004
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1282
+        width: 84
+        height: 106
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.4528302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27b18828ee21d74d823d61f15677522
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_005
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1228
+        width: 92
+        height: 109
+      alignment: 9
+      pivot: {x: 0.45652175, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c2151afa5cc7541811a72db59befd5
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_006
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1409
+        width: 81
+        height: 103
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.4368932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8273aae666147f443bbf0fda3c14a4cd
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_007
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1629
+        width: 80
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf358090e7e41e4db5ea8a03ba8613c
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_008
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1556
+        width: 76
+        height: 117
+      alignment: 9
+      pivot: {x: 0.46052632, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d81988f5f216214a91bea4fe7a8f736
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_009
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1135
+        width: 90
+        height: 108
+      alignment: 9
+      pivot: {x: 0.51111114, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9051dcd9d1428aa4f9cb5a3ee94f2766
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_010
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 382
+        width: 79
+        height: 111
+      alignment: 9
+      pivot: {x: 0.46835443, y: 0.43243244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb5ec20669cd7d4091d34c5a309797e
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_011
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1931
+        width: 79
+        height: 116
+      alignment: 9
+      pivot: {x: 0.443038, y: 0.5086207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f33a2cce62bd14eb1dfd52e9fc636b
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_012
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 964
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5121951, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e61811dd700fe140aecbd60e8dbc1fc
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_013
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 867
+        width: 75
+        height: 102
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d02ff002cf3494e88cc56db7c9761e
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_014
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1198
+        width: 82
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48214287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfad61cf94460447bed83ebc96900c6
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_015
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 370
+        width: 81
+        height: 113
+      alignment: 9
+      pivot: {x: 0.49382716, y: 0.44247788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f933dc8d778db4aa9bad08dd56c94a
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_016
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1225
+        width: 80
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54d493cf8a8d6b45a55d7dfb3d60e9a
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Left - Walking_017
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1827
+        width: 85
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5176471, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffbeefa68db5bb48bc9c236174e29c1
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_000
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 1517
+        width: 77
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4e6bcb33e8b6c4f8463fe7e98ebb75
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_001
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 51
+        width: 83
+        height: 105
+      alignment: 9
+      pivot: {x: 0.57831323, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1705f4debfa8a46a2077bd2ee277c5
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_002
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1521
+        width: 82
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55d5d142be88b1408c00cff11992c56
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_003
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 372
+        width: 90
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4888889, y: 0.45714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d043109e306648b7704054bbbc291
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_004
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 708
+        width: 90
+        height: 106
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.4528302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57ce2b8951d3be48bf0406c85ac1005
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_005
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1526
+        width: 78
+        height: 101
+      alignment: 9
+      pivot: {x: 0.53846157, y: 0.44554454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a8ff56fc9111042b0f3671edacc98a
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_006
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1261
+        width: 82
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.4537037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe554be10abb0c42bb725a08d4ac171
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_007
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1555
+        width: 77
+        height: 118
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.47457626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e313c6a7cbbf094f932f630f7b7eeea
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_008
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1074
+        width: 81
+        height: 114
+      alignment: 9
+      pivot: {x: 0.54320985, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09864644cc670db43889ebf06ff110ce
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_009
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1413
+        width: 84
+        height: 102
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.4509804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c566b87059a0b042abc59e25a3e6fd6
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_010
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1717
+        width: 85
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5764706, y: 0.46296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5638ebdbe172d46a2ef96b8f275afc
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Hurt_011
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1431
+        width: 83
+        height: 119
+      alignment: 9
+      pivot: {x: 0.5903614, y: 0.52100843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523bc4bdb7a905c4ca105f9183b7d67b
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_000
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1625
+        width: 77
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013cda218e907a448a33dc85e46c56ec
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_001
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 373
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: 0.60273975, y: 0.44642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49776cb6d8566334ea380eabb3eb2f65
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_002
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1941
+        width: 74
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6081081, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c1a05cf58dfb74a8c2b483f6074a74
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_003
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1075
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.58536583, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48a29c63248044f8f5418dc6208178
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_004
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1944
+        width: 76
+        height: 103
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4928fa675ae74f048babca3fff5198e4
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_005
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 783
+        width: 79
+        height: 108
+      alignment: 9
+      pivot: {x: 0.62025315, y: 0.46296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbedd2598a5b9448aba1abfac19b9bf
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_006
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1043
+        width: 74
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5945946, y: 0.46728972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9976f974484ed340956995dd85c6acc
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_007
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 443
+        width: 75
+        height: 100
+      alignment: 9
+      pivot: {x: 0.58666664, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5591792a944f341a6dbbe0f483530e
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_008
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1609
+        width: 86
+        height: 106
+      alignment: 9
+      pivot: {x: 0.627907, y: 0.43396226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a714910fd28d7541a07a5ce5a40be37
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_009
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1809
+        width: 90
+        height: 116
+      alignment: 9
+      pivot: {x: 0.54444444, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2030ca9d490d3408ee4581c22cf254
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_010
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1938
+        width: 72
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.48623854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93aa7552bc4a46c4e9876b747cc5fd1d
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle Blinking_011
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1703
+        width: 75
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.44545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb7e2daf9f385c43bcb297273d1f1dd
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_000
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1733
+        width: 77
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5687bf58894e5f64e898fa5a4f6e2019
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_001
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 491
+        width: 73
+        height: 112
+      alignment: 9
+      pivot: {x: 0.60273975, y: 0.44642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13921ad820aff87438311baa8e6f3131
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_002
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 129
+        width: 74
+        height: 106
+      alignment: 9
+      pivot: {x: 0.6081081, y: 0.4716981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfcd1ac306b8ca479339cbbaadeeeeb
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_003
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1186
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.58536583, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a0005922fcec478d034996e89114e
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_004
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 751
+        width: 76
+        height: 103
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b415ab54eeec6469ea9369c7aeb654
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_005
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 915
+        width: 79
+        height: 108
+      alignment: 9
+      pivot: {x: 0.62025315, y: 0.46296296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a62391a787ad4cbe00330deedc087
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_006
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 816
+        width: 74
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5945946, y: 0.46728972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9156ca318d7dce64da77c0afe72678cc
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_007
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 552
+        width: 75
+        height: 100
+      alignment: 9
+      pivot: {x: 0.58666664, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca7b254fc6239149b92f3af6ff43dbf
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_008
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1720
+        width: 86
+        height: 106
+      alignment: 9
+      pivot: {x: 0.627907, y: 0.43396226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab393f7e0c6854d48ad7f64f124bdf10
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_009
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1931
+        width: 90
+        height: 116
+      alignment: 9
+      pivot: {x: 0.54444444, y: 0.49137932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad5523d458ef1c4ba31c10ad7408d97
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_010
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 892
+        width: 72
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.48623854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d7a85707fd615478f597bad9c9ca95
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Idle_011
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1820
+        width: 75
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5466667, y: 0.44545454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074bcf2ab13187946b709730856542aa
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_000
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1725
+        width: 78
+        height: 106
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.49056605}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb887616992af0c448fa8571da629d07
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_001
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1568
+        width: 77
+        height: 116
+      alignment: 9
+      pivot: {x: 0.6233766, y: 0.51724136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b783070dd023f43bdc4e4e674981ac
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_002
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1488
+        width: 86
+        height: 108
+      alignment: 9
+      pivot: {x: 0.54651165, y: 0.49074075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2edd3f50ce72241ab12733781e64ad
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_003
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 778
+        width: 70
+        height: 97
+      alignment: 9
+      pivot: {x: 0.54285717, y: 0.46391752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23ecac64836544f811492768893ba4
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_004
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1827
+        width: 75
+        height: 109
+      alignment: 9
+      pivot: {x: 0.49333334, y: 0.44954127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a90b9c4ca64d64ead23d773c3f35a6
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_005
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 877
+        width: 81
+        height: 100
+      alignment: 9
+      pivot: {x: 0.4691358, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085b7244eec6deb479188dfc511fc01d
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_006
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 893
+        width: 105
+        height: 108
+      alignment: 9
+      pivot: {x: 0.3904762, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be0fe67c034f0749a677e34a0b11e2f
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1068
+        width: 99
+        height: 117
+      alignment: 9
+      pivot: {x: 0.35353535, y: 0.52991456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68c8edf5fa8cd74089a3424a660d6be
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_008
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 674
+        width: 97
+        height: 107
+      alignment: 9
+      pivot: {x: 0.34020618, y: 0.44859812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c80b30efb7d74cb03d6a6f88adc4b
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_009
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 654
+        width: 96
+        height: 100
+      alignment: 9
+      pivot: {x: 0.35416666, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d3419f7d8eb384a919d9e24e2eb5bd
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_010
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 848
+        width: 91
+        height: 110
+      alignment: 9
+      pivot: {x: 0.2967033, y: 0.42727274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96390ab0be31a2d4cb74bcecabcdfd9f
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Slashing_011
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1082
+        width: 94
+        height: 102
+      alignment: 9
+      pivot: {x: 0.31914893, y: 0.44117647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6967027dc3692b84aa860ae0d6a41749
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_000
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1839
+        width: 77
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21af7d978e496a74ea5a8a78d3b94aee
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_001
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1180
+        width: 81
+        height: 104
+      alignment: 9
+      pivot: {x: 0.6296296, y: 0.47115386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8eca832efcc0ee47b59e0b772d2e874
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 369
+        width: 75
+        height: 114
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac3b9a511c12e94fa6f2a102ed2ef4b
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_003
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 838
+        width: 86
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.49107143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55073a726f599774abaa667beba8e790
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_004
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1393
+        width: 79
+        height: 106
+      alignment: 9
+      pivot: {x: 0.51898736, y: 0.46226415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a86e992163f6a4f884b42ff395c87e
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_005
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1298
+        width: 82
+        height: 103
+      alignment: 9
+      pivot: {x: 0.5609756, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443c9efd23d14e488d25c6563b72a5e
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_006
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1339
+        width: 80
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5375, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473930a69f672c64ab2ee35787534836
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_007
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1356
+        width: 92
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5326087, y: 0.42201835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db05de1a0c704439859bb82ed36425
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_008
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1944
+        width: 84
+        height: 103
+      alignment: 9
+      pivot: {x: 0.60714287, y: 0.44660193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1699171efc2ae48b9a5869e6b14055
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_009
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1337
+        width: 78
+        height: 112
+      alignment: 9
+      pivot: {x: 0.61538464, y: 0.44642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37012cc32bbc1b7418bbaf79de4bc524
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_010
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 951
+        width: 82
+        height: 115
+      alignment: 9
+      pivot: {x: 0.63414633, y: 0.44347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b90b61f9a274d94a8990077ac49f0f6
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_011
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1363
+        width: 79
+        height: 109
+      alignment: 9
+      pivot: {x: 0.556962, y: 0.47706422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f77556cfbb373478200e3054556c10
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_012
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 288
+        width: 83
+        height: 110
+      alignment: 9
+      pivot: {x: 0.56626505, y: 0.4181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa91b962959f27944aa325dcc230bb06
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_013
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 254
+        width: 85
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5647059, y: 0.49557522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6862a6a6cde2eef4382abc1820500db1
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_014
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1735
+        width: 80
+        height: 102
+      alignment: 9
+      pivot: {x: 0.55, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d1145cfe0d2444f8cf34b696e5b5c1
+      internalID: 21300522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_015
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 952
+        width: 83
+        height: 114
+      alignment: 9
+      pivot: {x: 0.5301205, y: 0.4385965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2edf0bd480cf742beabc1f1c9e20a5
+      internalID: 21300524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_016
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 46
+        width: 92
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5326087, y: 0.42727274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a6ea24075909f44a0cd2e53b79db8d
+      internalID: 21300526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right - Walking_017
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1084
+        width: 82
+        height: 112
+      alignment: 9
+      pivot: {x: 0.58536583, y: 0.44642857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8a524201983d64ab3787f0751c75a1
+      internalID: 21300528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3426c305038e8304597bb2b140e0efd8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
